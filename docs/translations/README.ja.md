@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# First Contributions
+# First Contributions in japanese
 
 初めてのことは何でも大変なものです。特に他人と協力する時に、間違うのは気持ちの良いことではありません。しかし、オープンソースにおける活動では協力することが全てです。私たちは初めてオープンソースへの貢献を行う人たちが簡単に貢献する方法を学べるようにしたいと考えています。
 
